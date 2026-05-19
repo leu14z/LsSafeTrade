@@ -1,0 +1,12 @@
+name: LsSafeTrade
+version: 1.0.0
+main: LsPlugins.LsSafeTrade
+api-version: 1.16
+depend: [LsCore, Vault]
+authors: [leu14z]
+description: LsSafeTrade - Sistema de trocas seguras para Pixelmon.
+
+commands:
+  safetrade:
+    description: Comando principal para iniciar ou gerenciar trocas.
+    aliases: [trocar, trade]

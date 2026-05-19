@@ -1,0 +1,31 @@
+# ==========================================
+# LsSafeTrade - By leu14z
+# GitHub: https://github.com/leu14z
+# ==========================================
+
+Settings:
+  # Mostrar status e nomes de ovos na troca
+  ShowEggStats: false
+  ShowEggName: true
+
+  # Sistema de Logs (Auditoria)
+  Logs:
+    Enabled: true
+    ExpiryDays: 31
+
+  # Sistema de Armazenamento de Seguranca (Storage)
+  Storage:
+    AsyncSaving: true
+
+Blacklist:
+  # Materiais nativos do Bukkit/Pixelmon proibidos na troca
+  Items:
+    - "BEDROCK"
+    - "BARRIER"
+    - "COMMAND_BLOCK"
+
+  # Especies de Pokemon proibidas de serem trocadas
+  Pokemons:
+    - "Arceus"
+    - "Mewtwo"
+    - "Rayquaza"
