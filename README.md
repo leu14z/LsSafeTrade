@@ -21,10 +21,10 @@ Para o perfeito funcionamento do ecossistema do plugin, são utilizadas as segui
 ##  Comandos e Permissões
 
 ### Comandos de Jogador
-* `/trade <jogador>` — Envia uma solicitação de troca para um jogador próximo.
-* `/trade accept` — Aceita uma solicitação de troca pendente.
-* `/trade deny` — Recusa uma solicitação de troca pendente.
-* `/trade toggle` — Ativa ou desativa o recebimento de novas solicitações de troca.
+* `/safetrade <jogador>` — Envia uma solicitação de troca para um jogador próximo.
+* `/safetrade accept` — Aceita uma solicitação de troca pendente.
+* `/safetrade deny` — Recusa uma solicitação de troca pendente.
+* `/safetrade toggle` — Ativa ou desativa o recebimento de novas solicitações de troca.
 
 ### Permissões
 * `lssafetrade.use` — Garante acesso aos comandos básicos de negociação e utilização das interfaces de troca (Recomendado para o grupo padrão de jogadores).
