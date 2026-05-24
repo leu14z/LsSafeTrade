@@ -1,6 +1,6 @@
 # LsSafeTrade
 
-O **LsSafeTrade** é um sistema inovador de trocas seguras desenvolvido especificamente para servidores de Minecraft com o mod Pixelmon na versão 1.16.5. O projeto foi projetado com foco em performance otimizada e segurança absoluta, eliminando falhas crônicas de duplicação (dupes), perdas de itens ou problemas com transições de menus.
+O **LsSafeTrade** é um sistema de trocas seguras desenvolvido especificamente para servidores de Minecraft com o mod Pixelmon na versão 1.16.5. O projeto foi projetado com foco em performance otimizada e segurança absoluta, eliminando falhas crônicas de duplicação (dupes), perdas de itens ou problemas com transições de menus.
 
 ##  Funcionalidades Principais
 
